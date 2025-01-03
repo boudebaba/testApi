@@ -1,0 +1,29 @@
+[
+    {
+        "lastname": "Smith",
+        "firstname": "John",
+        "address": {
+            "street": "123 Main St",
+            "city": "New York",
+            "postalCode": "10001"
+        }
+    },
+    {
+        "lastname": "Doe",
+        "firstname": "Jane",
+        "address": {
+            "street": "456 Elm St",
+            "city": "Los Angeles",
+            "postalCode": "90001"
+        }
+    },
+    {
+        "lastname": "Brown",
+        "firstname": "Charlie",
+        "address": {
+            "street": "789 Pine St",
+            "city": "Chicago",
+            "postalCode": "60601"
+        }
+    }
+]
